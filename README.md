@@ -1,1 +1,0 @@
-# binarryarray.c
